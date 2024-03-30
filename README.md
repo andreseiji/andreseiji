@@ -16,13 +16,13 @@ I'm a Software Engineer who really likes design and web frontend 🫶
 ## 🧑🏻‍💻 Career
 
 - I'm currently working as a Staff Software Engineer (Frontend Chapter Lead) at [Zenklub](https://github.com/Zenklub), a health tech focused in mental health.
-- To check where I've contributed so far, visit my [Linkedin profile](https://www.linkedin.com/in/andreseiji/).
+- To check where I've contributed so far, visit [andreseiji.com](https://www.andreseiji.com/) or my [Linkedin profile](https://www.linkedin.com/in/andreseiji/).
 
 ## </>
 
 [![andreseiji's github stats](https://github-readme-stats.vercel.app/api?username=andreseiji&theme=dark&show_icons=true&count_private=true)](https://github.com/andreseiji)
 
-I'm currently using mostly Gitlab at work, so my Github activity won't be as pretty as in previous years, but believe me, I'm always coding.
+I use Gitlab at work, so my Github activity won't be as pretty as in previous years, but believe me, I'm always coding.
 
 ## 🔗 Links
 
