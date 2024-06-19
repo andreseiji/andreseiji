@@ -17,12 +17,6 @@ I'm a Software Engineer who really likes design and web frontend 🫶
 
 - To check where I've contributed so far, visit [andreseiji.com](https://www.andreseiji.com/) or my [Linkedin profile](https://www.linkedin.com/in/andreseiji/).
 
-## </>
-
-[![andreseiji's github stats](https://github-readme-stats.vercel.app/api?username=andreseiji&theme=dark&show_icons=true&count_private=true)](https://github.com/andreseiji)
-
-I use Gitlab at work, so my Github activity won't be as pretty as in previous years, but believe me, I'm always coding.
-
 ## 🔗 Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/andreseiji)
