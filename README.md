@@ -7,7 +7,6 @@ I'm a Software Engineer who really likes design and web frontend 🫶
 ## ✍️ Writing
 
 - I write at [okenlabs.com](https://okenlabs.com/blog/)
-- _(pt-BR)_ Em breve planejo escrever em português também 🇧🇷
 
 ## ☄️ Side projects
 
