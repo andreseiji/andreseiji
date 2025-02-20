@@ -9,10 +9,6 @@ I'm a Software Engineer who really likes design and web frontend 🫶
 - I write at [okenlabs.com](https://okenlabs.com/blog/)
 - (pt-BR) De vez e nunca em [okenlabs.com.br](https://okenlabs.com.br/blog/)
 
-## ☄️ Side projects
-
-- I created the [Oken Labs](https://github.com/oken-labs) org to work on some side projects.
-
 ## 🧑🏻‍💻 Career
 
 - To check where I've contributed so far, visit [andreseiji.com](https://www.andreseiji.com/) or my [Linkedin profile](https://www.linkedin.com/in/andreseiji/).
