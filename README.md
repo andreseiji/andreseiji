@@ -4,11 +4,6 @@ I'm a Software Engineer who really likes design and web frontend 🫶
 
 > [andreseiji.com](https://www.andreseiji.com/)
 
-## ✍️ Writing
-
-- I write at [okenlabs.com](https://okenlabs.com/blog/)
-- (pt-BR) De vez e nunca em [okenlabs.com.br](https://okenlabs.com.br/blog/)
-
 ## 🧑🏻‍💻 Career
 
 - To check where I've contributed so far, visit [andreseiji.com](https://www.andreseiji.com/) or my [Linkedin profile](https://www.linkedin.com/in/andreseiji/).
